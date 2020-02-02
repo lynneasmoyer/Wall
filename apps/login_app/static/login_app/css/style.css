@@ -1,0 +1,12 @@
+form {
+    width:400px;
+    display: inline-block;
+}
+
+.comment{
+    background-color: pink;
+    color: white;
+    padding: 20px;
+    border: solid black 2px;
+
+}
